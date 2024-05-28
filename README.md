@@ -3,7 +3,7 @@
 ## iPod Video (Enhanced)
 | Serial No.  | Storage                                                 | Battery      | Battery dimensions (W\*H\*D) | Software | Runtime (H)[^1] |
 |-------------|---------------------------------------------------------|--------------|------------------------------|----------|-----------------|
-| 8M639N4CV9M | 30 GB HDD                                               | Original     |                              | Original |                 |
+| 8M639N4CV9M | 30 GB HDD                                               | Original     |                              | Original | Video: 2h 27m                |
 | 8M639N4CV9M | 30 GB HDD                                               | Original     |                              | Rockbox  |                 |
 | 8M639N4CV9M | 30 GB HDD                                               | 1950 mAh[^2] |                              | Original |                 |
 | 8M639N4CV9M | 30 GB HDD                                               | 1950 mAh[^2] |                              | Rockbox  |                 |
