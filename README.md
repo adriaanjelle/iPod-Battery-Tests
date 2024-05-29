@@ -5,8 +5,6 @@
 |-------------|---------------------------------------------------------|--------------|------------------------------|----------|-----------------|
 | 8M639N4CV9M | 30 GB HDD                                               | Original     |                              | Original | Video: 2h 27m                |
 | 8M639N4CV9M | 30 GB HDD                                               | Original     |                              | Rockbox  |                 |
-| 8M639N4CV9M | 30 GB HDD                                               | 1950 mAh[^2] |                              | Original |                 |
-| 8M639N4CV9M | 30 GB HDD                                               | 1950 mAh[^2] |                              | Rockbox  |                 |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | Original     |                              | Original |                 |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | Original     |                              | Rockbox  |                 |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | 1950 mAh[^2] |                              | Original |                 |
@@ -17,8 +15,6 @@
 |-------------|---------------------------------------------------------|--------------|------------------------------|----------|-----------------|
 | 8K227CQ09ZU | 160 GB HDD                                              | Original     |                              | Original |                 |
 | 8K227CQ09ZU | 160 GB HDD                                              | Original     |                              | Rockbox  |                 |
-| 8K227CQ09ZU | 160 GB HDD                                              | 1950 mAh[^2] |                              | Original |                 |
-| 8K227CQ09ZU | 160 GB HDD                                              | 1950 mAh[^2] |                              | Rockbox  |                 |
 | 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023), iFlash Quad             | Original     |                              | Original |                 |
 | 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023), iFlash Quad             | Original     |                              | Rockbox  |                 |
 | 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023), iFlash Quad             | 1950 mAh[^2] |                              | Original |                 |
