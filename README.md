@@ -23,7 +23,7 @@
 ## iPod Mini 2nd gen
 | Serial No.  | Storage                                                 | Battery      | Battery dimensions (W\*H\*D) | Software | Runtime (H)[^1] |
 |-------------|---------------------------------------------------------|--------------|------------------------------|----------|-----------------|
-| JQ5360FQS42 | 6 GB HDD                                                | 750 mAh [^3] |                              | Original |                 |
+| JQ5360FQS42 | 6 GB HDD                                                | 750 mAh [^3] |                              | Original | Audio: 24h 37m                |
 | JQ5360FQS42 | 6 GB HDD                                                | 750 mAh [^3] |                              | Rockbox  |                 |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023), iFlash SD to CF Adapter | 750 mAh [^3] |                              | Original |                 |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023), iFlash SD to CF Adapter | 750 mAh [^3] |                              | Rockbox  |                 |
