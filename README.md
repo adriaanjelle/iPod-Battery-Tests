@@ -13,7 +13,7 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 |-------------|---------------------------------------------------------|--------------|----------|-----------------|
 | 8M639N4CV9M | 30 GB HDD                                               | Original     | Original | Video: 2h 27m                |
 | 8M639N4CV9M | 30 GB HDD                                               | Original     | Rockbox  |                 |
-| 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | Original     | Original | Video: 2h 51m                |
+| 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | Original     | Original | Audio: 14h 39m<br>Video: 2h 51m                |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | Original     | Rockbox  |                 |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | 1950 mAh[^2] | Original |                 |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023), iFlash Quad             | 1950 mAh[^2] | Rockbox  |                 |
