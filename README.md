@@ -6,7 +6,7 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 - For the audio tests, I am using 256 Kb/s AAC songs, set to shuffle all of them. The screen will be off the entire time. I should note that the iPod Mini's screen stays on indefinitely (I found no way to change this behavior), but the backlight is off. In all tests, the audio is at maximum volume.
 - For video, I have transcoded a 10-hour YouTube video of Epic Sax Guy[^1] at the lowest quality for H.264 using the Intel QSV encoder. The audio is at maximum volume, and the brightness is also set to the max.
 - To find out the runtime, the audio output of the iPod is hooked up to a line-in on a computer which is recording all of it using Audacity. Once the battery dies, the waveform becomes a flat line and that decides the final runtime.
-- The 'original' battery used in the 5.5th and 7th gen iPods are the same battery, which comes from a 7th gen iPod made in 2011 according to the date on the HDD.
+- The 'original' battery used in the 5.5th and 7th gen iPods are the same battery, which comes from a 7th gen iPod made in 2011 according to the date on the HDD. This battery is probably very degraded based on the runtimes compared to Apple's rated runtimes.
 
 ## iPod Video (Enhanced)
 | Serial No.  | Storage                                                 | Battery      | Software | Runtime |
