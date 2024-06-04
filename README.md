@@ -35,18 +35,18 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 | 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Rockbox  |         |
 
 ## iPod Mini 2nd gen
-| Serial No.  | Storage                                                                        | Battery      | Software | Runtime        |
-|-------------|--------------------------------------------------------------------------------|--------------|----------|----------------|
+| Serial No.  | Storage                                                                        | Battery      | Software | Runtime |
+|-------------|--------------------------------------------------------------------------------|--------------|----------|---------|
 | JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | Original | 24h 37m |
 | JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | Rockbox  | 15h 28m |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Original |                |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Rockbox  |                |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Original |                |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Rockbox  |                |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] | Original |                |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] | Rockbox  |                |
-| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | Original |                |
-| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | Rockbox  |                |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Original |         |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Rockbox  |         |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Original |         |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Rockbox  |         |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] | Original |         |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] | Rockbox  |         |
+| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | Original |         |
+| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | Rockbox  |         |
 
 
 [^1]: [https://www.youtube.com/watch?v=ez8m4PXksQs](https://www.youtube.com/watch?v=ez8m4PXksQs)
