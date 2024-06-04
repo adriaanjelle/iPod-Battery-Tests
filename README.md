@@ -1,6 +1,6 @@
 # iPod Battery Tests
 
-Here, you can find some tests I've done for several of my iPods. This includes the iPod Classic (7th gen), Video (5.5th gen), and Mini (2nd gen).
+Here, you can find some tests I've done for several of my iPods. This includes the iPod Classic (7th gen), Video (5.5th gen), Photo (4th gen) and Mini (2nd gen).
 
 **Some things you should know:**
 - For the audio tests, I am using 256 Kb/s AAC songs, set to shuffle all of them. The screen will be off the entire time. I should note that the iPod Mini's screen stays on indefinitely (I found no way to change this behavior), but the backlight is off. In all tests, the audio is at maximum volume.
