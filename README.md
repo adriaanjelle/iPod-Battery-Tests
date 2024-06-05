@@ -39,7 +39,7 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 |-------------|--------------------------------------------------------------------------------|--------------|----------|---------|
 | JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | Original | 24h 37m |
 | JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | Rockbox  | 15h 28m |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Original |         |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Original | 30h 22m |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Rockbox  |         |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Original |         |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Rockbox  |         |
