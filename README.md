@@ -9,44 +9,33 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 - The 'original' battery used in the 5.5th and 7th gen iPods are the same battery, which comes from a 7th gen iPod made in 2011 according to the date on the HDD. This battery is probably very degraded based on the runtimes compared to Apple's rated runtimes.
 
 ## iPod Photo
-| Serial No.  | Storage                                                                                       | Battery      | Software | Runtime |
-|-------------|-----------------------------------------------------------------------------------------------|--------------|----------|---------|
-| 2Z6191PRTDS | 4 GB HDD[^4]<br>AliExpress IDE to CF adapter[^5]                                              | 1200 mAh[^7] | Original |         |
-| 2Z6191PRTDS | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF adapter<br>AliExpress IDE to CF adapter[^5] | 1200 mAh[^7] | Rockbox  |         |
+| Serial No.  | Storage                                                                                       | Battery      | Runtime | Runtime<br>(Rockbox) |
+|-------------|-----------------------------------------------------------------------------------------------|--------------|---------|----------------------|
+| 2Z6191PRTDS | 4 GB HDD[^4]<br>AliExpress IDE to CF adapter[^5]                                              | 1200 mAh[^7] |         |                      |
+| 2Z6191PRTDS | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF adapter<br>AliExpress IDE to CF adapter[^5] | 1200 mAh[^7] |         |                      |
 
 ## iPod Video (Enhanced)
-| Serial No.  | Storage                                       | Battery      | Software | Runtime                         |
-|-------------|-----------------------------------------------|--------------|----------|---------------------------------|
-| 9C643LRFV9M | 30 GB HDD                                     | Original     | Original | Audio: 12h 16m<br>Video: 2h 27m |
-| 9C643LRFV9M | 30 GB HDD                                     | Original     | Rockbox  |                                 |
-| 9C643LRFV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | Original     | Original | Audio: 14h 39m<br>Video: 2h 51m |
-| 9C643LRFV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | Original     | Rockbox  |                                 |
-| 8M639N4CV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Original | Audio: 40h 54m<br>Video: 7h 9m  |
-| 8M639N4CV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Rockbox  |                                 |
+| Serial No.  | Storage                                       | Battery      | Runtime                         | Runtime<br>(Rockbox) |
+|-------------|-----------------------------------------------|--------------|---------------------------------|----------------------|
+| 9C643LRFV9M | 30 GB HDD                                     | Original     | Audio: 12h 16m<br>Video: 2h 27m |                      |
+| 9C643LRFV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | Original     | Audio: 14h 39m<br>Video: 2h 51m |                      |
+| 8M639N4CV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Audio: 40h 54m<br>Video: 7h 9m  |                      |
 
 ## iPod Classic
-| Serial No.  | Storage                                       | Battery      | Software | Runtime |
-|-------------|-----------------------------------------------|--------------|----------|---------|
-| 8K227CQ09ZU | 160 GB HDD                                    | Original     | Original |         |
-| 8K227CQ09ZU | 160 GB HDD                                    | Original     | Rockbox  |         |
-| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     | Original |         |
-| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     | Rockbox  |         |
-| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Original |         |
-| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Rockbox  |         |
+| Serial No.  | Storage                                       | Battery      | Runtime | Runtime (Rockbox) |
+|-------------|-----------------------------------------------|--------------|---------|-------------------|
+| 8K227CQ09ZU | 160 GB HDD                                    | Original     |         |                   |
+| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     |         |                   |
+| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] |         |                   |
 
 ## iPod Mini 2nd gen
-| Serial No.  | Storage                                                                        | Battery      | Software | Runtime |
-|-------------|--------------------------------------------------------------------------------|--------------|----------|---------|
-| JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | Original | 24h 37m |
-| JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | Rockbox  | 15h 28m |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Original | 30h 22m |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | Rockbox  | 10h 44m |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Original |         |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] | Rockbox  |         |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] | Original |         |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] | Rockbox  |         |
-| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | Original |         |
-| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | Rockbox  |         |
+| Serial No.  | Storage                                                                        | Battery      | Runtime | Runtime<br>(Rockbox) |
+|-------------|--------------------------------------------------------------------------------|--------------|---------|----------------------|
+| JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | 24h 37m | 15h 28m              |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | 30h 22m | 10h 44m              |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] |         |                      |
+| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] |         |                      |
+| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] |         |                      |
 
 
 [^1]: [https://www.youtube.com/watch?v=ez8m4PXksQs](https://www.youtube.com/watch?v=ez8m4PXksQs)
