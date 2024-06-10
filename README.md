@@ -35,7 +35,7 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | 30h 22m | 10h 44m              |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress Micro SD adapter<br>Sony AD-MSCF1 | 750 mAh [^3] |         |                      |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] |         |                      |
-| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | 20h 56m |                      |
+| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | 30h 33m |                      |
 
 
 [^1]: [https://www.youtube.com/watch?v=ez8m4PXksQs](https://www.youtube.com/watch?v=ez8m4PXksQs)
