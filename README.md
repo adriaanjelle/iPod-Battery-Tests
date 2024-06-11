@@ -24,8 +24,8 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 ## iPod Classic
 | Serial No.  | Storage                                       | Battery      | Runtime | Runtime<br>(Rockbox) |
 |-------------|-----------------------------------------------|--------------|---------|----------------------|
-| 8K227CQ09ZU | 160 GB HDD                                    | Original     |         |                      |
-| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     |         |                      |
+| 8K143MC89ZU | 160 GB HDD                                    | Original     |         |                      |
+| 8K143MC89ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     |         |                      |
 | 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Video: 15h 30m |                      |
 
 ## iPod Mini 2nd gen
