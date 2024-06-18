@@ -18,7 +18,7 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 | Serial No.  | Storage                                       | Battery      | Runtime                         | Runtime<br>(Rockbox) |
 |-------------|-----------------------------------------------|--------------|---------------------------------|----------------------|
 | 9C643LRFV9M | 30 GB HDD                                     | Original     | Audio: 12h 16m<br>Video: 2h 27m | 13h 47m              |
-| 9C643LRFV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | Original     | Audio: 14h 39m<br>Video: 2h 51m |                      |
+| 9C643LRFV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | Original     | Audio: 14h 39m<br>Video: 2h 51m | 6h 54m               |
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Audio: 40h 54m<br>Video: 7h 9m  | 20h 20m              |
 
 ## iPod Classic
