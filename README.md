@@ -22,11 +22,11 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 | 8M639N4CV9M | Samsung Pro Plus 256 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Audio: 40h 54m<br>Video: 7h 9m  | 20h 20m              |
 
 ## iPod Classic
-| Serial No.  | Storage                                       | Battery      | Runtime | Runtime<br>(Rockbox) |
-|-------------|-----------------------------------------------|--------------|---------|----------------------|
-| 8K143MC89ZU | 160 GB HDD                                    | Original     |         |                      |
-| 8K143MC89ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     |         |                      |
-| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Audio: 112h 15m<br>Video: 15h 30m |                      |
+| Serial No.  | Storage                                       | Battery      | Runtime                           | Runtime<br>(Rockbox) |
+|-------------|-----------------------------------------------|--------------|-----------------------------------|----------------------|
+| 8K143MC89ZU | 160 GB HDD                                    | Original     |                                   |                      |
+| 8K143MC89ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     |                                   |                      |
+| 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Audio: 112h 15m<br>Video: 15h 30m | 27h 4m               |
 
 ## iPod Mini 2nd gen
 | Serial No.  | Storage                                                                        | Battery      | Runtime | Runtime<br>(Rockbox) |
