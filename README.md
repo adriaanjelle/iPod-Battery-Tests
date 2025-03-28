@@ -25,7 +25,7 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 | Serial No.  | Storage                                       | Battery      | Runtime                           | Runtime<br>(Rockbox) |
 |-------------|-----------------------------------------------|--------------|-----------------------------------|----------------------|
 | 8K143MC89ZU | 160 GB HDD                                    | Original     |                                   |                      |
-| 8K143MC89ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     | Audio: 40h 23m |                      |
+| 8K143MC89ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | Original     | Audio: 40h 23m                    |                      |
 | 8K227CQ09ZU | Samsung Pro Plus 512 GB (2023)<br>iFlash Quad | 1950 mAh[^2] | Audio: 112h 15m<br>Video: 15h 30m | 27h 4m               |
 
 ## iPod Mini 2nd gen
@@ -33,8 +33,11 @@ Here, you can find some tests I've done for several of my iPods. This includes t
 |-------------|--------------------------------------------------------------------------------|--------------|---------|----------------------|
 | JQ5360FQS42 | 6 GB HDD                                                                       | 750 mAh [^3] | 24h 37m | 15h 28m              |
 | JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | 30h 22m | 10h 44m              |
-| JQ5360FQS42 | Samsung Pro Plus 256 GB (2023)<br>AliExpress red SD to CF adapter[^6]          | 750 mAh [^3] |         |                      |
-| JQ5360FQS42 | SanDisk Extreme 128 GB CompactFlash                                            | 750 mAh [^3] | 30h 33m | 13h 29m              |
+
+And with Rockbox 20250328:
+| Serial No.  | Storage                                                                        | Battery      | Runtime | Runtime<br>(Rockbox) |
+|-------------|--------------------------------------------------------------------------------|--------------|---------|----------------------|
+| JQ5360FQS42 | Samsung Evo Plus 256 GB (2021)<br>iFlash SD to CF Adapter                      | 750 mAh [^3] | 26h 38m |                      |
 
 
 [^1]: [https://www.youtube.com/watch?v=ez8m4PXksQs](https://www.youtube.com/watch?v=ez8m4PXksQs)
